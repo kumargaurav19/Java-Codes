@@ -1,4 +1,4 @@
-package o2_Binary_search;
+package o2.Binary_search;
 
 import java.util.Arrays;
 

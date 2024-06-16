@@ -1,4 +1,4 @@
-package o1_Basic_Java;
+package o1.Basic_Java;
 
 public class o11_Arrays {
     public static void main(String[] args) {

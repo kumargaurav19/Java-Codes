@@ -1,4 +1,4 @@
-package o2_Binary_search;
+package o2.Binary_search;
 
 public class o1_Linear_search {
     public static void main(String[] args) {

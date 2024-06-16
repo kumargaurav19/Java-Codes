@@ -1,4 +1,4 @@
-package o1_Basic_Java;
+package o1.Basic_Java;
 
 public class o7_String_methods {
     public static void main(String[] args) {

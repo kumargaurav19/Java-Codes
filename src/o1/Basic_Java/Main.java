@@ -1,4 +1,4 @@
-package o1_Basic_Java;
+package o1.Basic_Java;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`, then press Enter.
 // You can now see whitespace characters in your code.
